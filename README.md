@@ -1,19 +1,18 @@
-# person-app
+# Person-app
 
-## Project setup
+## Descripción aplicación
+Aplicación realizada con VUE3 options API. La funcionalidad de la app es crear,editar,modificar y eliminar personas con nombre, apellido y email.
+
+## Lanzar proyecto
+1. Instalar los módulos de node
 ```
 yarn install
 ```
-
-### Compiles and hot-reloads for development
+2. Ejecutar app en modo desarrollo
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Imágenes de la app
+![home](./src/assets/home.png)
+![home](./src/assets/editar.png)
